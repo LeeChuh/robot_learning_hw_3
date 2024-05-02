@@ -46,6 +46,11 @@ As we elaborated in the earlier session, our implement doesn't improve the perfo
 ### 3.1 Number of interactions vs. performance
 As we elaborate before, we are using threshold to control the number of interactions. In the plot below, the x-axis is the threshold and the y-axis is the loss. The higher the threshold, the more interaction will be used in training. 
 
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+
 
 ### 3.2 
 
